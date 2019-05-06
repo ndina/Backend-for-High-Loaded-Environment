@@ -1,0 +1,15 @@
+The Materializer is a factory for stream execution engines, it is the thing that makes streams run—you don’t need to worry about any of the details just now apart from that you need one for calling any of the run methods on a Source. 
+
+-------------------------------
+The nice thing about Akka Streams is that the Source is just a description of what you want to run.
+-------------------------------
+Akka HTTP - It is a suite of libraries that allow you to create a REST / HTTP interface to connect to your application.
+-------------------------------
+Источник данных (Source) — стадия обработки с одним выходом.
+Сток (Sink) — стадия обработки с одним входом.
+Пропускной пункт (Flow) — стадия обработки с одним входом и одним выходом. Здесь происходят функциональные трансформации, причем необязательно в памяти: это может быть, например, обращение к веб-сервису, к каким-то элементам параллелизма, многопоточное.
+--------------------------------
+Sink и Source — это интерфейсы, обозначающие конец и начало стрима, а GraphStage — это конкретная реализация стримов произвольной формы (GraphStage может иметь форму Sink'ов, Source'ов, Flow'ов, BidiFlow'ов и прочего)
+
+-создать докер который rabbit 
+event->rabit connection i pishet clientu
