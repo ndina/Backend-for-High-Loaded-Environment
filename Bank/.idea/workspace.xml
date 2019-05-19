@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a17d9797-3063-4dc6-ae62-a577e55a2913" name="Default Changelist" comment="" />
+    <list default="true" id="a17d9797-3063-4dc6-ae62-a577e55a2913" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker/src/main/scala/Boot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$22fd386e66bc06c9164f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$22fd386e66bc06c9164f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$22fd386e66bc06c9164f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$4c35a3dd5f23b23ac8eb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$4c35a3dd5f23b23ac8eb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$4c35a3dd5f23b23ac8eb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$71671d214c644a894a32$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$71671d214c644a894a32.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$71671d214c644a894a32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$83e5976de05b2940346f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$83e5976de05b2940346f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$83e5976de05b2940346f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$942aa160782551d1a72c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$942aa160782551d1a72c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$942aa160782551d1a72c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$b0b9aff7d0f3c4f8c5da$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$b0b9aff7d0f3c4f8c5da.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$b0b9aff7d0f3c4f8c5da.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$c2614662a3fc50d0a44f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$c2614662a3fc50d0a44f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$c2614662a3fc50d0a44f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$e1e7d2334022a817b4bf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$e1e7d2334022a817b4bf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/project/target/config-classes/$e1e7d2334022a817b4bf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/default/docker-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/default/docker-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/default/docker-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/default/docker-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-docker-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docker/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Docker/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akkaSlickRestApi" beforeDir="false" afterPath="$PROJECT_DIR$/../akkaSlickRestApi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-s3-scala" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-s3-scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-dar-lab-lecture-demos" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-dar-lab-lecture-demos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bhle-lecture-demos" beforeDir="false" afterPath="$PROJECT_DIR$/../bhle-lecture-demos" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -22,17 +76,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/Messages.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/JsonSupport.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="85">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="e#20#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="442">
               <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
             </state>
           </provider>
@@ -49,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/actors/BankAccount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="272">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#16#72#0" expanded="true" />
@@ -61,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/actors/BankService.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="187">
               <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
               <folding>
                 <element signature="e#15#61#0" expanded="true" />
@@ -70,11 +127,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Boot.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/concurrent/ExecutionContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
+            <state relative-caret-position="1666">
               <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
             </state>
           </provider>
@@ -91,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/actors/Bank.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="238">
               <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#15#71#0" expanded="true" />
@@ -108,6 +168,9 @@
         <option value="Scala Trait" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,6 +194,7 @@
     <option name="width" value="959" />
     <option name="height" value="1012" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -186,8 +250,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555157192569" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../src" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558175989971" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -281,18 +345,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17855169" />
+      <window_info id="DB Browser" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18056323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295099" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32848233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,30 +417,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/JsonSupport.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/Messages.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/JsonSupport.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="442">
           <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/actors/BankAccount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="272">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#16#72#0" expanded="true" />
@@ -377,26 +434,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/actors/BankService.scala">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/concurrent/ExecutionContext.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-          <folding>
-            <element signature="e#15#61#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1666">
+          <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/concurrent/ExecutionContext.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Boot.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
+        <state relative-caret-position="323">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/actors/Bank.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="238">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#15#71#0" expanded="true" />
@@ -404,10 +461,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Boot.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actors/BankService.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="e#15#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/Messages.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Operations/JsonSupport.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#20#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-FROM darecosystem/java8-deb
+FROM openjdk:8
 
 MAINTAINER Nassyrkhan Dina<dbom12360@gmail.com>
 
@@ -26,3 +26,6 @@ WORKDIR /root/$APP_DIR/bin
 CMD chmod +x $RUN_SCRIPT
 EXPOSE 8080
 CMD ./$RUN_SCRIPT
+
+
+
